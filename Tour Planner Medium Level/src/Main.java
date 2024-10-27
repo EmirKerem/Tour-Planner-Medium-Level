@@ -30,7 +30,7 @@ public class Main {
 
     public static void show_options() {
         System.out.println("1- View Options\n"
-                + "2- Start Trip");
+                +          "2- Start Trip");
     }
 
     public static void touring_dest(LinkedList<String> destinations) {
